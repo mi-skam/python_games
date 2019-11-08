@@ -4,4 +4,4 @@ This repo provides simple Python games I collected for teaching purposes. I do p
 
 | Projects | Description |
 | -------- | -------- |
-| [Pong](https://git.snopyta.org/plumps/python_games/src/branch/master/python_games/pong.py)|It's a two player game. The two player control their paddle with w/s keys or cursor up and down respectively.| 
+| [Pong](https://git.snopyta.org/plumps/python_games/src/branch/master/pong.py)|It's a two player game. The two player control their paddle with w/s keys or cursor up and down respectively.| 
